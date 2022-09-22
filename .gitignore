@@ -1,0 +1,7 @@
+#gitignore comment
+# specificFile.fileEnding
+# folder/
+# *.fileEnding  = wildcard asterisk
+
+JDBC/
+TA_tests/

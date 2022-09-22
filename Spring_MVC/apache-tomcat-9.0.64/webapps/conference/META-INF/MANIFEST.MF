@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Razer
+Build-Jdk: 18
+Implementation-Title: conference
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pluralsight
+Main-Class: ${start-class}
+
